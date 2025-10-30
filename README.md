@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @danibot5.
-- 👀 I’m interested in programming and Fortnite.
-- 🌱 I’m currently learning C#.
+- 👀 I’m interested in coding, Fortnite, Tennis and mostly Astrophysics.
+- 🌱 I’m currently learning JS and C#.
 - 📫 @dababaaka5@gmail.com
-- ⚡ Fun fact: I'm the best Fortnite player in my own country Bulgaria 🇧🇬
+- ⚡ Fun fact: I'm the best fighter in Fortnite in my own country Bulgaria 🇧🇬
 
 <!---
 danibot5/danibot5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
