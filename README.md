@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danibot5.
 - 👀 I’m interested in coding, Fortnite, Tennis and mostly Astrophysics.
 - 🌱 I’m currently learning JS and C#.
-- 📫 @dababaaka5@gmail.com
+- 📫 @danislav.ivanov.highschool@buditel.bg
 - ⚡ Fun fact: I'm the best fighter in Fortnite in my own country Bulgaria 🇧🇬
 
 <!---
